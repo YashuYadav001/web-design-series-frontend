@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+
+@font-face {
+  font-family: "font1";
+  src: url("/Dash-Horizon-Demo.otf") ;
+}
+
+@font-face {
+  font-family: "font2";
+  src: url("/Neogen-Black.ttf") ;
+}
+
+@font-face {
+  font-family: "font3";
+  src: url("/Garet-Book.otf") ;
+}
+
+
+
