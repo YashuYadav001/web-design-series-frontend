@@ -16,5 +16,24 @@
   src: url("/Garet-Book.otf") ;
 }
 
+@font-face {
+  font-family: "font4";
+  src: url("/LEMONMILK-Regular.otf") ;
+}
+
+
+
+@font-face {
+  font-family: "font5";
+  src: url("/Altone Trial-Regular.ttf") ;
+}
+
+
+
+@font-face {
+  font-family: "font6";
+  src: url("/BebasKai.otf") ;
+}
+
 
 
