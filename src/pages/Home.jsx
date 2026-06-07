@@ -90,6 +90,18 @@ export default function Home() {
               DESIGN 3
             </h3>
           </Link>
+          <Link to="/design-4">
+            <div className="card h-[500px] bg-zinc-900 rounded-3xl overflow-hidden group">
+              <img
+                src="/design3.jpg"
+                className="w-full h-full object-cover group-hover:scale-110 transition duration-700"
+              />
+            </div>
+
+            <h3 className="mt-4 text-2xl font-bold">
+              DESIGN 4
+            </h3>
+          </Link>
 
         </div>
       </section>
