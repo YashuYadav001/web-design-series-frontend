@@ -93,13 +93,25 @@ export default function Home() {
           <Link to="/design-4">
             <div className="card h-[500px] bg-zinc-900 rounded-3xl overflow-hidden group">
               <img
-                src="/design3.jpg"
+                src="/design4.jpg"
                 className="w-full h-full object-cover group-hover:scale-110 transition duration-700"
               />
             </div>
 
             <h3 className="mt-4 text-2xl font-bold">
               DESIGN 4
+            </h3>
+          </Link>
+          <Link to="/design-5">
+            <div className="card h-[500px] bg-zinc-900 rounded-3xl overflow-hidden group">
+              <img
+                src="/design5.jpg"
+                className="w-full h-full object-cover group-hover:scale-110 transition duration-700"
+              />
+            </div>
+
+            <h3 className="mt-4 text-2xl font-bold">
+              DESIGN 5
             </h3>
           </Link>
 
